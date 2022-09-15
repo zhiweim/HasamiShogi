@@ -1,1 +1,3 @@
-import os
+import os, argparse
+
+os.system('cmd /c "git log"')
